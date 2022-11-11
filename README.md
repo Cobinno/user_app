@@ -1,1 +1,5 @@
-# user_app
+Shopeaze
+
+
+
+This is For Educational Purpose Only!!
